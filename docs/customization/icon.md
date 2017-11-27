@@ -76,7 +76,7 @@ This file creates & updates the entry in database and copy assets at installatio
 
 If you need to change options in your module while providing an update you must change the values here
 
-**Note:** you must never change `code` as this is the unique_code used to update your layout, otherwise this will create a new layout.
+**Note:** you must never change `name` as this is the name used to update your icon pack, otherwise this will create a new icon pack.
 
 ```php
 <?php
